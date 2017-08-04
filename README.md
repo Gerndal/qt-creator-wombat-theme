@@ -26,10 +26,12 @@ The stylesheet can be copied along with the icons folder anywhere. It is then lo
 
 An example:
 ```
+Mac
 /path/to/QtCreator/QtCreator -stylesheet=/path/to/stylesheet/stylesheet.css
 ```
-
+```
 windows7 or above
 copy Users\username\AppData\Roaming\QtProject\qtcreator\styles\\*.* wombat-style.xml
+```
 
 [1]: http://dengmao.wordpress.com/2007/01/22/vim-color-scheme-wombat/
